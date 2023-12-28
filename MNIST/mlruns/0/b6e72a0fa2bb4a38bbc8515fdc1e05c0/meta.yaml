@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jy_zhang/code/MNIST/mlruns/0/b6e72a0fa2bb4a38bbc8515fdc1e05c0/artifacts
+end_time: 1701437977990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6e72a0fa2bb4a38bbc8515fdc1e05c0
+run_name: angry-elk-444
+run_uuid: b6e72a0fa2bb4a38bbc8515fdc1e05c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701437968868
+status: 3
+tags: []
+user_id: jy_zhang

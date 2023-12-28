@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9175d69a4dd444a9bb3da73c3087e8da/artifacts
+end_time: 1700824852061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9175d69a4dd444a9bb3da73c3087e8da
+run_name: salty-ox-192
+run_uuid: 9175d69a4dd444a9bb3da73c3087e8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700824851076
+status: 4
+tags: []
+user_id: jy_zhang

@@ -1,0 +1,10 @@
+  | Name    | Type   | Params
+-----------------------------------
+0 | layer_1 | Linear | 100 K 
+1 | layer_2 | Linear | 33.0 K
+2 | layer_3 | Linear | 2.6 K 
+-----------------------------------
+136 K     Trainable params
+0         Non-trainable params
+136 K     Total params
+0.544     Total estimated model params size (MB)

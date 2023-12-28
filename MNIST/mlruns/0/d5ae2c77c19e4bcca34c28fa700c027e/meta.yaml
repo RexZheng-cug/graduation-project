@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jy_zhang/code/MNIST/mlruns/0/d5ae2c77c19e4bcca34c28fa700c027e/artifacts
+end_time: 1701437506036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5ae2c77c19e4bcca34c28fa700c027e
+run_name: melodic-ox-20
+run_uuid: d5ae2c77c19e4bcca34c28fa700c027e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701437506034
+status: 3
+tags: []
+user_id: jy_zhang

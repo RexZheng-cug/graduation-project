@@ -1,0 +1,5 @@
+layer1:['sfdfsfwe232', 'fef332']
+layer2:['dadsadas', 'fef332']
+layer2:['dadsadas', 'fef332']
+layer2:torch.Size([20, 10])
+[s]layer2:torch.Size([20, 10])

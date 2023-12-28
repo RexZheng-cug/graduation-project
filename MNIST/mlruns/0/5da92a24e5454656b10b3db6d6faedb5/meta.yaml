@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jy_zhang/code/MNIST/mlruns/0/5da92a24e5454656b10b3db6d6faedb5/artifacts
+end_time: 1701437505805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da92a24e5454656b10b3db6d6faedb5
+run_name: traveling-shoat-175
+run_uuid: 5da92a24e5454656b10b3db6d6faedb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701437498654
+status: 3
+tags: []
+user_id: jy_zhang

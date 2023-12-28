@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jy_zhang/code/MNIST/mlruns/0/ad432714f16248138b61dc8fb4d26473/artifacts
+end_time: 1701437506033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad432714f16248138b61dc8fb4d26473
+run_name: able-worm-852
+run_uuid: ad432714f16248138b61dc8fb4d26473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701437506031
+status: 3
+tags: []
+user_id: jy_zhang
